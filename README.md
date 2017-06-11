@@ -8,5 +8,6 @@
 - Talk: "Explore and have fun with TensorFlow" - an introductory to TensorFlow
 <br />
 <br />
+
 [TensorFlow & Deep Learning Malaysia Group Facebook Page](http://www.facebook.com/groups/TensorFlowMY)
 
