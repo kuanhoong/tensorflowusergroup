@@ -10,3 +10,5 @@
 
 [TensorFlow & Deep Learning Malaysia Group Facebook Page](http://www.facebook.com/groups/TensorFlowMY)
 
+[TensorFlow & Deep Learning Malaysia Meetup Page](https://www.meetup.com/tensorflow-deep-learning-malaysia)
+
